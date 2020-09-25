@@ -7,3 +7,5 @@ RealTime Face Detection Using Processing , Also its shows the position of the fa
 - [x] Customizable Code
 - [x] Can detect more than one faces at once
 
+it can detec multibal faces
+
