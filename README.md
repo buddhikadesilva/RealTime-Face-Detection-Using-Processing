@@ -12,3 +12,4 @@ it can detec multibal faces
 what is face detection?
 Face detection is a computer technology being used in a variety of applications that identifies human faces in digital images. Face detection also refers to the psychological process by which humans locate and attend to faces in a visual scene. 
 
+- A facial recognition system is a technology capable of matching a human face from a digital ... Pentland in 1994 defined Eigenface features, including eigen eyes, eigen mouths and eigen noses, to advance the use of PCA in facial recognition.
