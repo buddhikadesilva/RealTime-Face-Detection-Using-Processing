@@ -10,7 +10,9 @@ Good Mobile application
 - [x] Customizable Code
 - [x] Can detect more than one faces at once
 
-it can detec multibal faces
+It can detec multipal faces.
+When the real-time face identification is true then it detects the face and follows these steps in code: Grab a single frame in real-time video. Convert the image from BGR color (which OpenCV uses) to RGB color (which face_recognition uses) Find all the faces and face encodings in the frame of the real-time video.
+
 what is face detection?
 Face detection is a computer technology being used in a variety of applications that identifies human faces in digital images. Face detection also refers to the psychological process by which humans locate and attend to faces in a visual scene. 
 
@@ -18,3 +20,4 @@ Face detection is a computer technology being used in a variety of applications 
 -Advantages of these kinds of face detection softwares 
 -Automatically detect faces in your mobile apps, services & software. Try for free! Detect faces easily by getting an ultimate software and live private support. Join Our Newsletter. Affordable Prices. 
 -Face recognition makes it easier to track down burglars, thieves and trespassers. The technology is capable of analyzing the feed private and public CCTV camera networks. The technology is not limited to tracking down criminals. For instance, it could also make it easier to find missing children and seniors.
+
