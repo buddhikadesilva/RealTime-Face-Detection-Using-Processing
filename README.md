@@ -7,5 +7,5 @@ RealTime Face Detection Using Processing , Also its shows the position of the fa
 - [x] Customizable Code
 - [x] Can detect more than one faces at once
 
-it can detec multibal faces
-
+it can detec multipal faces
+When the real-time face identification is true then it detects the face and follows these steps in code: Grab a single frame in real-time video. Convert the image from BGR color (which OpenCV uses) to RGB color (which face_recognition uses) Find all the faces and face encodings in the frame of the real-time video.
